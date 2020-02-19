@@ -22,9 +22,9 @@
 > I don't know
 
 ### 6. When should you DM @Iris and when should you DM @MOTHER on Slack?
-> @Iris for easy questions, @MOTHER for hard questions
+> @Iris - Bocal, @MOTHER - RA
 
-### 7. 
+### 7. Speaking of Slack, DM @kane and ask about !mail. What’s the bot’s response?
 > Send mail to this address:
 >
 >> Your Name - 42
@@ -34,3 +34,19 @@
 >> Fremont, CA 94555
 >
 > Make sure to pick it up in the bocal! It makes Jamíe sad when mail piles up.
+
+### 8. And what is the difference between posting on 42 Stack Overflow, posting in #42sv_staff_pedagogy, and posting in #_pedagogy on Slack?
+
+> Stack Overflow is special platform for question
+
+### 9. get_next_line in 42 Stack Overflow
+
+> https://stackoverflow.com/c/42network/questions/790
+
+### 10. If your program is segfaulting and you can’t figure out why, what steps would you take?
+
+> I will open GDB debugger for test allocaton memory
+
+### 11. Where is Bocal?
+
+> Bocal is where you go ... if you've been told to go there.
