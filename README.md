@@ -45,7 +45,8 @@
 
 ### 10. If your program is segfaulting and you can’t figure out why, what steps would you take?
 
-> I will open GDB debugger for test allocaton memory
+> While most errors can be detected using manual debugging (eg: inserting printf statements), some errors are hard to detect just by observing the values of variables. The compiler may rearrange the order of the execution making the programmer think that an error occurred in a different place than the actual location. The best way to debug C code is to use some of the tools available from GNU. The most widely used tool for debugging C programs is the GDB.
+
 
 ### 11. Where is Bocal?
 
